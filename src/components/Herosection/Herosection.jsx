@@ -35,7 +35,7 @@ function Herosection() {
           </div>
           <div class="ml-20 mb-10">
             <img
-              src="/src/assets/camera.jpg"
+              src="/camera.jpg"
               alt="banner"
               class="rounded-l-[20%]"
             />
@@ -44,28 +44,28 @@ function Herosection() {
         <div class="flex justify-center">
           <div class="lg:w-2/3 md:justify-evenly md:w-3/4 md:flex-row flex flex-col items-center w-1/2">
             <div class="md:hidden flex flex-col items-center my-5">
-              <img src="/src/assets/community.png" alt="community" />
+              <img src="/community.png" alt="community" />
               <h3 class="font-semibold mt-2">Community based</h3>
               <p class="text-center text-gray-400">
                 Take part in the community. Grow Together
               </p>
             </div>
             <div class="md:flex md:flex-col md:items-center md:my-5 hidden">
-              <img src="/src/assets/joy.png" alt="community" />
+              <img src="/joy.png" alt="community" />
               <h3 class="md:font-semibold mt-2">Share the Joy</h3>
               <p class="md:text-center md:text-gray-400">
                 Grow closer. Take part in the community.
               </p>
             </div>
             <div class="flex flex-col items-center my-5">
-              <img src="/src/assets/save money.png" alt="save money" />
+              <img src="/save money.png" alt="save money" />
               <h3 class="font-semibold mt-2">Save money</h3>
               <p class="text-center text-gray-400">
                 Buy less. Rent on demand for a fraction of the price.
               </p>
             </div>
             <div class="flex flex-col items-center my-5">
-              <img src="/src/assets/help the plant.png" alt="plant" />
+              <img src="/help the plant.png" alt="plant" />
               <h3 class="font-semibold mt-2">Help the planet</h3>
               <p class="text-center text-gray-400">
                 Live greener. Reduce waste.

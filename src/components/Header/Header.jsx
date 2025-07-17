@@ -7,7 +7,7 @@ function Header() {
           <div class="flex justify-between">
             <div class="p-5">
               <a href="index.html">
-                <img src="/src/assets/logo.png" alt="logo" />
+                <img src="/logo.png" alt="logo" />
               </a>
             </div>
             <div class="flex justify-evenly">
@@ -16,7 +16,7 @@ function Header() {
               </div>
               <div class="p-5">
                 <a href="#">
-                  <img src="/src/assets/menu.png" alt="menu" />
+                  <img src="/menu.png" alt="menu" />
                 </a>
               </div>
             </div>

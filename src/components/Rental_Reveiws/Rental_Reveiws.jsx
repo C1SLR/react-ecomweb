@@ -23,7 +23,7 @@ function Rental_Reveiws() {
           <div className="m-5">
             <div class="md:flex justify-evenly gap-5 m-1 py-5 hidden">
               <div class="flex flex-wrap gap-5 bg-white items-center rounded-2xl p-3">
-                <img src="/src/assets/elina doe.png" alt="elina" class="w-12" />
+                <img src="/elina doe.png" alt="elina" class="w-12" />
                 <div class="flex-col">
                   <p class="text-blue-500 font-bold">Elina Doe</p>
                   <sub>
@@ -39,7 +39,7 @@ function Rental_Reveiws() {
                 </div>
               </div>
               <div class="flex flex-wrap gap-5 bg-white items-center rounded-2xl p-3">
-                <img src="/src/assets/david doe.png" alt="david" class="w-12" />
+                <img src="/david doe.png" alt="david" class="w-12" />
                 <div class="flex-col">
                   <p class="text-blue-500 font-bold">David Doe</p>
                   <sub>
@@ -56,7 +56,7 @@ function Rental_Reveiws() {
               </div>
               <div class="flex flex-wrap gap-5 bg-white items-center rounded-2xl p-3">
                 <img
-                  src="/src/assets/marina doe.png"
+                  src="/marina doe.png"
                   alt="marina"
                   class="w-12"
                 />
@@ -76,7 +76,7 @@ function Rental_Reveiws() {
               </div>
               <div class="flex flex-wrap gap-5 bg-white items-center rounded-2xl p-3">
                 <img
-                  src="/src/assets/charles doe.png"
+                  src="/charles doe.png"
                   alt="charles"
                   class="w-12"
                 />
@@ -101,7 +101,7 @@ function Rental_Reveiws() {
             <SwiperSlide>
               <div class="bg-white flex flex-wrap items-center gap-5 rounded-lg p-10 m-5">
                 <div>
-                  <img src="/src/assets/elina doe.png" alt="elina" />
+                  <img src="/elina doe.png" alt="elina" />
                 </div>
                 <div>
                   <p class="text-blue-500 font-bold">Elina Doe</p>
@@ -119,7 +119,7 @@ function Rental_Reveiws() {
             <SwiperSlide>
               <div class="bg-white flex flex-wrap items-center gap-5 rounded-lg p-10 m-5">
                 <div>
-                  <img src="/src/assets/david doe.png" alt="david" />
+                  <img src="/david doe.png" alt="david" />
                 </div>
                 <div>
                   <p class="text-blue-500 font-bold">David Doe</p>
@@ -137,7 +137,7 @@ function Rental_Reveiws() {
             <SwiperSlide>
               <div class="bg-white flex flex-wrap items-center gap-5 rounded-lg p-10 m-5">
                 <div>
-                  <img src="/src/assets/marina doe.png" alt="marina" />
+                  <img src="/marina doe.png" alt="marina" />
                 </div>
                 <div>
                   <p class="text-blue-500 font-bold">Marina Doe</p>
@@ -155,7 +155,7 @@ function Rental_Reveiws() {
             <SwiperSlide>
               <div class="bg-white flex flex-wrap items-center gap-5 rounded-lg p-10 m-5">
                 <div>
-                  <img src="/src/assets/charles doe.png" alt="charles" />
+                  <img src="/charles doe.png" alt="charles" />
                 </div>
                 <div>
                   <p class="text-blue-500 font-bold">Charles Doe</p>

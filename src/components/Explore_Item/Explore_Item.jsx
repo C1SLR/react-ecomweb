@@ -19,14 +19,14 @@ function Explore_Item() {
             </p>
           </div>
           <div class="relative group col-span-2 row-span-2 cursor-pointer">
-            <img src="/src/assets/exploreimg1.png" alt="img1" class="w-full" />
+            <img src="/exploreimg1.png" alt="img1" class="w-full" />
             <div class="absolute inset-0 bottom-0 bg-gradient-to-t from-blue-900 to-transparent opacity-0 group-hover:opacity-75 transition-opacity duration-300 rounded-2xl flex items-end justify-center">
               <p class="text-white text-lg font-semibold pb-2">Cameras</p>
             </div>
           </div>
           <div class="relative group cursor-pointer">
             <img
-              src="/src/assets/exploreimg2.png"
+              src="/exploreimg2.png"
               alt="img2"
               class="md:h-full w-full"
             />
@@ -36,7 +36,7 @@ function Explore_Item() {
           </div>
           <div class="relative group cursor-pointer">
             <img
-              src="/src/assets/exploreimg3.png"
+              src="/exploreimg3.png"
               alt="img3"
               class="md:h-full w-full"
             />
@@ -46,7 +46,7 @@ function Explore_Item() {
           </div>
           <div class="relative group cursor-pointer">
             <img
-              src="/src/assets/exploreimg4.png"
+              src="/exploreimg4.png"
               alt="img4"
               class="md:h-full w-full"
             />
@@ -56,7 +56,7 @@ function Explore_Item() {
           </div>
           <div class="relative group cursor-pointer">
             <img
-              src="/src/assets/exploreimg5.png"
+              src="/exploreimg5.png"
               alt="img5"
               class="md:h-full w-full"
             />
@@ -66,7 +66,7 @@ function Explore_Item() {
           </div>
           <div class="relative group cursor-pointer">
             <img
-              src="/src/assets/exploreimg6.png"
+              src="/exploreimg6.png"
               alt="img6"
               class="md:h-full w-full"
             />
@@ -76,7 +76,7 @@ function Explore_Item() {
           </div>
           <div class="relative group cursor-pointer">
             <img
-              src="/src/assets/exploreimg7.png"
+              src="/exploreimg7.png"
               alt="img7"
               class="md:h-full w-full h-auto block rounded-md"
             />
@@ -95,7 +95,7 @@ function Explore_Item() {
             </p>
           </div>
           <div class="md:w-1/2">
-            <img src="/src/assets/iphone.png" alt="phone" class="md:w-full" />
+            <img src="/iphone.png" alt="phone" class="md:w-full" />
           </div>
         </div>
       </div>

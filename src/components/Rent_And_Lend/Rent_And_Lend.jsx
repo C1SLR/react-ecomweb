@@ -27,12 +27,12 @@ function Rent_And_Lend() {
           </div>
           <div>
             <img
-              src="/src/assets/Group 143.png"
+              src="/Group 143.png"
               alt="group143"
               class="md:block hidden"
             />
             <img
-              src="/src/assets/Group 141.png"
+              src="/Group 141.png"
               alt="group141"
               class="md:hidden w-full"
             />
@@ -41,7 +41,7 @@ function Rent_And_Lend() {
         <div class="md:flex md:gap-5 m-5">
           <div class="w-1/2">
             <img
-              src="/src/assets/Group 142.png"
+              src="/Group 142.png"
               alt="group142"
               class="md:block w-full hidden"
             />
@@ -59,7 +59,7 @@ function Rent_And_Lend() {
               <a href="itemlist.html"> List and earn </a>
             </button>
             <img
-              src="/src/assets/Group 142.png"
+              src="/Group 142.png"
               alt="group142"
               class="md:hidden w-full"
             />

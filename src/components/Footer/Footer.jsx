@@ -5,7 +5,7 @@ function Footer() {
         <div className="md:flex p-5 gap-10 w-11/12">
         <div class="xl:w-4/12 md:w-3/6">
           <div>
-            <img src="/src/assets/footer logo.png" alt="logo" class="my-10" />
+            <img src="/footer logo.png" alt="logo" class="my-10" />
           </div>
           <div>
             <p>
@@ -18,13 +18,13 @@ function Footer() {
           <div class="flex w-full justify-around my-5">
             <div>
               <a href="https:facebook.com">
-                <img src="/src/assets/fb.png" alt="fb" class="p-5" />
+                <img src="/fb.png" alt="fb" class="p-5" />
               </a>
             </div>
             <div>
               <a href="https:twitter.com">
                 <img
-                  src="/src/assets/X.png"
+                  src="/X.png"
                   alt="x"
                   class="bg-blue-950 rounded-full p-5"
                 />
@@ -37,12 +37,12 @@ function Footer() {
             </div>
             <div>
               <a href="https:linkedin.com">
-                <img src="/src/assets/in.png" alt="in" class="p-5" />
+                <img src="/in.png" alt="in" class="p-5" />
               </a>
             </div>
             <div>
               <a href="https:instagram.com">
-                <img src="/src/assets/ig.png" alt="ig" class="p-5" />
+                <img src="/ig.png" alt="ig" class="p-5" />
               </a>
             </div>
           </div>
