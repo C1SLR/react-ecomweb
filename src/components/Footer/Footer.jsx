@@ -32,7 +32,7 @@ function Footer() {
             </div>
             <div>
               <a href="https:youtube.com">
-                <img src="/src/assets/yt.png" alt="yt" class="p-5" />
+                <img src="/public/yt.png" alt="yt" class="p-5" />
               </a>
             </div>
             <div>
